@@ -1,0 +1,2 @@
+#!/bin/bash 
+chmod --copy=olleh hello
